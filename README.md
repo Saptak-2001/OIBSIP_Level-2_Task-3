@@ -14,7 +14,7 @@ This repository contains the completed third task for Level-2 which is a basic T
 
 ## Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/Saptak-2001/my_important_images/main/Screenshot_Level-2_Task-3.png)
+![App Screenshot](https://raw.githubusercontent.com/Saptak-2001/my_important_images/main/Task-3.png)
 
 ## Authors
 
