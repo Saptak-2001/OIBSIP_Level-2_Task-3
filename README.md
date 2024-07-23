@@ -1,6 +1,6 @@
-# OIBSIP_Level-2_Task-3
+# A TO-DO APP
 
-This repository contains the completed third task for Level-2 which is a basic To-Do app that enables a user to add daily tasks.
+This repository contains building a basic To-Do app that enables a user to add daily tasks.
 
 ## Description
 
